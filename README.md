@@ -7,3 +7,5 @@ The dataset is not based on the full ct scan of the lung but it mainly focuses o
 The dataset was preprocessed and split into training,testing and validation.
 
 A 3d-CNN was built for the purpose of training and testing.
+
+for the front end Streamlit was used. A user friendly interface was built.
